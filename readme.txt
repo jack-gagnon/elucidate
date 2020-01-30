@@ -1,4 +1,4 @@
+Thank you for your attention!
 
-
-For awesome templates please visit https://colorlib.com/wp/templates/
+If you would like any additional information, please email support@elucidate.life
 
