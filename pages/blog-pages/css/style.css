@@ -1145,7 +1145,12 @@ h1, h2, h3, h4 {
     margin-bottom: 0; }
   .sidebar-box h3 {
     font-size: 18px;
+    text-align: center;
+    padding-left: 70px;
     margin-bottom: 15px; }
+  .sidebar-box img {
+    width: auto;
+    height: auto; }
 
 .categories li, .sidelink li {
   position: relative;
