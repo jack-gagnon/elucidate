@@ -1150,7 +1150,7 @@ h1, h2, h3, h4 {
     margin-bottom: 15px; }
   .sidebar-box img {
     width: 500px;
-    height: 800px; }
+    height: auto; }
 
 .categories li, .sidelink li {
   position: relative;
