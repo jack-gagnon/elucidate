@@ -409,6 +409,10 @@ body {
 h1, h2, h3, h4 {
   color: #000; }
 
+img .node_complexity {
+  width: auto;
+  height: auto; }
+
 .site-section {
   padding-top: 7rem;
   padding-bottom: 7rem;
