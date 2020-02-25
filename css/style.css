@@ -617,6 +617,7 @@ h1, h2, h3, h4, h5,
         width: 100%; } }
   .intro-section h1 {
     font-size: 3rem;
+    text-align: center;
     font-weight: 900;
     color: #fff; }
   .intro-section p {
@@ -627,6 +628,7 @@ h1, h2, h3, h4, h5,
 .img-absolute {
   position: absolute;
   right: 10px;
+  left: 10px;
   top: 50%;
   -webkit-transform: translateY(-50%);
   -ms-transform: translateY(-50%);
