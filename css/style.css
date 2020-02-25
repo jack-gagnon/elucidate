@@ -622,8 +622,7 @@ h1, h2, h3, h4, h5,
   .intro-section p {
     color: rgba(255, 255, 255, 0.5);
     font-size: 1.1rem;
-    max-width: 400px;
-    text-align: center; }
+    max-width: 400px; }
 
 .img-absolute {
   position: absolute;
