@@ -610,6 +610,7 @@ h1, h2, h3, h4, h5,
     height: 100vh;
     min-height: 900px;
     display: flex;
+    margin-left: 20px;
     align-content: space-around; }
   .intro-section:before {
     content: "";
@@ -632,7 +633,7 @@ h1, h2, h3, h4, h5,
 
 .img-absolute {
   position: absolute;
-  margin: 20px 20px 20px 20px;
+  margin-right: 20px;
   top: 50%;
   -webkit-transform: translateY(-50%);
   -ms-transform: translateY(-50%);
