@@ -610,12 +610,6 @@ h1, h2, h3, h4, h5,
     height: 100vh;
     min-height: 900px;
     display: block-inline; }
-  .intro-section, .intro-section .container .row .col-lg-2{
-    right: 10px;
-    left: 10px; }
-  .intro-section, .intro-section .container .row .col-lg-2{
-     right: 10px;
-     left: 10px; }
   .intro-section:before {
     content: "";
     position: absolute;
@@ -637,7 +631,6 @@ h1, h2, h3, h4, h5,
 
 .img-absolute {
   position: absolute;
-  right: 10px;
   top: 50%;
   -webkit-transform: translateY(-50%);
   -ms-transform: translateY(-50%);
