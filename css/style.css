@@ -637,7 +637,7 @@ h1, h2, h3, h4, h5,
   -ms-transform: translateY(-50%);
   transform: translateY(-50%); }
   .img-absolute img {
-    max-width: 600px;
+    max-width: 620px;
     -webkit-box-shadow: 0 10px 50px -5px rgba(0, 0, 0, 0.4);
     box-shadow: 0 10px 50px -5px rgba(0, 0, 0, 0.4); }
     @media (max-width: 991.98px) {
