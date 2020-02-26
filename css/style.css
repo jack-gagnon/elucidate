@@ -611,6 +611,7 @@ h1, h2, h3, h4, h5,
     min-height: 900px;
     display: flex;
     margin-left: 20px;
+    margin-right: 20px;
     align-content: space-around; }
   .intro-section:before {
     content: "";
