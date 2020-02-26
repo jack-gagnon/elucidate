@@ -609,7 +609,8 @@ h1, h2, h3, h4, h5,
   .intro-section, .intro-section .container .row {
     height: 100vh;
     min-height: 900px;
-    display: flex; }
+    display: flex;
+    align-content: start; }
   .intro-section:before {
     content: "";
     position: absolute;
