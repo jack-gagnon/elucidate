@@ -612,7 +612,7 @@ h1, h2, h3, h4, h5,
     display: flex;
     margin-left: 20px;
     margin-right: 20px;
-    align-content: space-evenly; }
+    align-content: normal; }
   .intro-section:before {
     content: "";
     position: absolute;
