@@ -213,7 +213,7 @@ h1, h2, h3, h4, h5,
       width: 100%;
       background: rgba(0, 0, 0, 0.7); }
   .bg-image > .container {
-    position: relative;
+    position: absolute;
     z-index: 1; }
 
 @media (max-width: 991.98px) {
