@@ -606,9 +606,9 @@ h1, h2, h3, h4, h5,
   .intro-section, .intro-section .container .row {
     height: 100vh;
     min-height: 900px;
+    display: block-inline;
     margin-left: auto;
-    margin-right: auto;
-    display: inline-block;}
+    margin-right: auto; }
   .intro-section:before {
     content: "";
     position: absolute;
