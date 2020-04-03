@@ -640,6 +640,10 @@ h1, h2, h3, h4, h5,
       .img-absolute img {
         max-width: 100%; } }
 
+.img-absolute .img-fluid #tools {
+  width: 637px;
+  height: 436px; }
+
 .site-section {
   padding: 10em 0; }
   @media (max-width: 991.98px) {
